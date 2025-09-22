@@ -23,8 +23,8 @@ Setup Instructions
 
 Clone the repository
 
-git clone 
-cd 
+git clone https://github.com/Sivamani1919nandyala/Collaborative-Task-Manager.git
+cd Collaborative-Task-Manager
 
 
 Install backend dependencies
