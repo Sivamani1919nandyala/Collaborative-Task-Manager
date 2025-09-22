@@ -25,25 +25,30 @@ Setup Instructions
 Clone the repository
 
 git clone https://github.com/Sivamani1919nandyala/Collaborative-Task-Manager.git
+
 cd Collaborative-Task-Manager
 
 
 Install backend dependencies
 
 cd backend
+
 npm install
 
 
 Install frontend dependencies
 
 cd ../frontend
+
 npm install
 
 
 Set environment variables in a .env file
 
 PORT=5000
+
 MONGO_URI="mongodb+srv://nandyalasivamani1919:Suda1919@cluster0.fy2dh.mongodb.net/collaborative-task-manager?retryWrites=true&w=majority"
+
 JWT_SECRET=Suda1919
 
 
@@ -51,14 +56,19 @@ JWT_SECRET=Suda1919
 Run backend
 
 cd backend
+
 npm start
 
 
 Run frontend
 
 cd frontend
+
 npm start
 
 
 Open http://localhost:3000
  in your browser
+
+ Please visit demo video:
+ Link: 
