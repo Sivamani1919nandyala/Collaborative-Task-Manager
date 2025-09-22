@@ -55,5 +55,4 @@ Visit: http://localhost:5173/
 
 Demo Video
 
-🎥 Watch the application demo here:
-Click to View Demo
+🎥 Watch Demo Video
