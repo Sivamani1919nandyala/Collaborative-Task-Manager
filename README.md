@@ -22,23 +22,31 @@ Database: MongoDB
 
 Setup Instructions
 1. Clone the repository
+
 git clone https://github.com/Sivamani1919nandyala/Collaborative-Task-Manager.git
+
 cd Collaborative-Task-Manager
 
-2. Install backend dependencies
+3. Install backend dependencies
+   
 cd backend
+
 npm install
 
-3. Install frontend dependencies
+5. Install frontend dependencies
+   
 cd ../frontend
+
 npm install
 
-4. Set environment variables
+7. Set environment variables
 
 Create a .env file in the backend folder with the following:
 
 PORT=5000
+
 MONGO_URI="mongodb+srv://nandyalasivamani1919:Suda1919@cluster0.fy2dh.mongodb.net/collaborative-task-manager?retryWrites=true&w=majority"
+
 JWT_SECRET=Suda1919
 
 5. Run backend
@@ -46,14 +54,16 @@ cd backend
 npm start
 
 6. Run frontend
+   
 cd frontend
+
 npm start
 
-7. Open in browser
+8. Open in browser
 
 Visit: http://localhost:3000
 
 Demo Video
 
 Watch the application demo here:
-Demo Link
+Demo Video Link
